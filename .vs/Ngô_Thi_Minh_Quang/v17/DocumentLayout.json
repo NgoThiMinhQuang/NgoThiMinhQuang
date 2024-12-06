@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A20F9A2-F948-4378-AF5B-862507F260F1}|Bai2_3\\Bai2_3.csproj|c:\\winform l\u1EDBp\\ng\u00F4_thi_minh_quang\\bai2_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A20F9A2-F948-4378-AF5B-862507F260F1}|Bai2_3\\Bai2_3.csproj|solutionrelative:bai2_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A20F9A2-F948-4378-AF5B-862507F260F1}|Bai2_3\\Bai2_3.csproj|c:\\winform l\u1EDBp\\ng\u00F4_thi_minh_quang\\bai2_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A20F9A2-F948-4378-AF5B-862507F260F1}|Bai2_3\\Bai2_3.csproj|solutionrelative:bai2_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E52CFF-863F-4491-8E2E-2BAFF565AD72}|Bai_6\\Bai_6.csproj|C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\bai_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4E52CFF-863F-4491-8E2E-2BAFF565AD72}|Bai_6\\Bai_6.csproj|solutionrelative:bai_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9ED371-209A-4454-9018-4CCB3EDA2735}|Bai_5\\Bai_5.csproj|c:\\winform l\u1EDBp\\ng\u00F4_thi_minh_quang\\bai_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A9ED371-209A-4454-9018-4CCB3EDA2735}|Bai_5\\Bai_5.csproj|solutionrelative:bai_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC23BA9-A85F-4339-BEC4-1822650325F2}|Bai_4\\Bai_4.csproj|c:\\winform l\u1EDBp\\ng\u00F4_thi_minh_quang\\bai_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DC23BA9-A85F-4339-BEC4-1822650325F2}|Bai_4\\Bai_4.csproj|solutionrelative:bai_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41864CF-861D-418E-A061-5D256308B631}|Bai_3\\Bai_3.csproj|c:\\winform l\u1EDBp\\ng\u00F4_thi_minh_quang\\bai_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E41864CF-861D-418E-A061-5D256308B631}|Bai_3\\Bai_3.csproj|solutionrelative:bai_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E5F3CE-6C70-4D9C-9FC8-BAEDE21A9A27}|Bai_2\\Bai_2.csproj|C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\bai_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E5F3CE-6C70-4D9C-9FC8-BAEDE21A9A27}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963A454-1101-4EF6-884C-F4F245171F62}|Bai_1\\Bai_1.csproj|c:\\winform l\u1EDBp\\ng\u00F4_thi_minh_quang\\bai_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5963A454-1101-4EF6-884C-F4F245171F62}|Bai_1\\Bai_1.csproj|solutionrelative:bai_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963A454-1101-4EF6-884C-F4F245171F62}|Bai_1\\Bai_1.csproj|c:\\winform l\u1EDBp\\ng\u00F4_thi_minh_quang\\bai_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5963A454-1101-4EF6-884C-F4F245171F62}|Bai_1\\Bai_1.csproj|solutionrelative:bai_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NGOC QUANG\\Downloads\\BTTH_02\\BTTH_02\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E52CFF-863F-4491-8E2E-2BAFF565AD72}|Bai_6\\Bai_6.csproj|C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\bai_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E52CFF-863F-4491-8E2E-2BAFF565AD72}|Bai_6\\Bai_6.csproj|solutionrelative:bai_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC23BA9-A85F-4339-BEC4-1822650325F2}|Bai_4\\Bai_4.csproj|C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\bai_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC23BA9-A85F-4339-BEC4-1822650325F2}|Bai_4\\Bai_4.csproj|solutionrelative:bai_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E5F3CE-6C70-4D9C-9FC8-BAEDE21A9A27}|Bai_2\\Bai_2.csproj|C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\bai_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E5F3CE-6C70-4D9C-9FC8-BAEDE21A9A27}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai2_3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai2_3\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai2_3\\Form1.cs",
+              "RelativeToolTip": "Bai2_3\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:24:05.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai2_3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai2_3\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai2_3\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai2_3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:21:32.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_5\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_5\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_5\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai_5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:21:21.155Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_4\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_4\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_4\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai_4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:21:07.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_3\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_3\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai_3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:21:02.436Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_1\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_1\\Form1.cs",
+              "RelativeToolTip": "Bai_1\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:18:41.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_1\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_1\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai_1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:18:11.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NGOC QUANG\\Downloads\\BTTH_02\\BTTH_02\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\NGOC QUANG\\Downloads\\BTTH_02\\BTTH_02\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\NGOC QUANG\\Downloads\\BTTH_02\\BTTH_02\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\Users\\NGOC QUANG\\Downloads\\BTTH_02\\BTTH_02\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:21:14.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_6\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_6\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_6\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai_6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:53:50.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_6\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_6\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_6\\Form1.cs",
+              "RelativeToolTip": "Bai_6\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:00:25.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_4\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_4\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_4\\Form1.cs",
+              "RelativeToolTip": "Bai_4\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwDAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:21:11.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_2\\Form1.cs",
+              "RelativeToolTip": "Bai_2\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:40:31.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Form1.cs",
+              "ToolTip": "C:\\WINFORM L\u1EDAP\\Ng\u00F4_Thi_Minh_Quang\\Bai_2\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:42:11.286Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
